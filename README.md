@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# SQL Sales Analysis
 
 ## Introduction
 
